@@ -7,7 +7,7 @@ const items = [
     id: 1,
     title: "Algorithmic Trading",
     img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Unsupervised Learning Trading Strategy, utilizing S&P 500 stocks data to master features, indicators, and portfolio optimization nad leverage the power of social media with the Twitter Sentiment Investing Strategy. And Intraday Strategy will introducing the GARCH model.",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const items = [
   },
   {
     id: 3,
-    title: "Next JS App (ZoroTube)",
+    title: "Next JS App (AsuraTube)",
     img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
   },
