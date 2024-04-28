@@ -34,7 +34,7 @@ const Contact = () => {
         "service_2gsglq5",
         "template_v10u2oh",
         formRef.current,
-        "pX_2hasGmGcuvjXIW"
+        // "pX_2hasGmGcuvjXIW" // User Id
       )
       .then(
         (result) => {
