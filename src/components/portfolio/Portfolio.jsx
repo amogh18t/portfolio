@@ -7,24 +7,28 @@ const items = [
     id: 1,
     title: "Algorithmic Trading",
     img: "/algotrading.png",
+    link: "https://github.com/amogh18t/algorithmic-trading-quant",
     desc: "Unsupervised Learning Trading Strategy, utilizing S&P 500 stocks data to master features, indicators, and portfolio optimization nad leverage the power of social media with the Twitter Sentiment Investing Strategy. And Intraday Strategy will introducing the GARCH model.",
   },
   {
     id: 2,
-    title: "Next.js Blog",
-    img: "/asuratube.png",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    title: "Kafka YoutubeWatcher",
+    img: "/kafka.png",
+    link: "https://github.com/amogh18t/Kafka-YoutubeWatcher",
+    desc: "Streams out live data of Youtube videos by Kafka by Confluent Cloud via ksqlDB , and sends custom notifications by Telegram. Uses Python to fetch and process data from a static web API Streams that data live. Processes the incoming source data with ksqlDB, watching for important changes, Then streams out live, custom notifications via Telegram",
   },
   {
     id: 3,
     title: "Next JS App (AsuraTube)",
-    img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/asuratube.png",
+    link: "https://github.com/amogh18t/asuratube",
     desc: "Video Sharing web-app made with React.Js, Node.Js and RestAPI, Redux, JWT Cookie Authentication. A similar webapp to YouTube, that creator can upload videos and the viewer can view.",
   },
   {
     id: 4,
     title: "quickSQL React App",
     img: "/quicksql.png",
+    link: "https://github.com/amogh18t/quickSQL",
     desc: "Designed and Implemented a web-based application capable of running SQL queries and displaying the results of said query. The application must include a space which accepts SQL queries in the form of user inputs, then runs the given query, and displays the result within the application.",
   },
 ];
@@ -48,7 +52,9 @@ const Single = ({ item }) => {
           <motion.div className="textContainer" style={{y}}>
             <h2>{item.title}</h2>
             <p>{item.desc}</p>
-            <button>See Demo</button>
+            <a href={item.link} target="_blank" rel="noopener noreferrer">
+              <button>See Demo</button>
+            </a>
           </motion.div>
         </div>
       </div>
