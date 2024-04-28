@@ -36,8 +36,8 @@ const Services = () => {
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          I have worked on Machine Learning to solve real world problems
-          <br /> and move forward
+          I have worked on Algorithms & Strategies to solve real world problems
+          <br /> and provide buisness insights
         </p>
         <hr />
       </motion.div>
@@ -62,10 +62,13 @@ const Services = () => {
         >
           <h2>ML & Algo</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Amazon ML Summer School Sept 2023 – Oct 2023
+            Machine Learning Intern Remote
+            • Classical ML: Gained comprehensive insights into key ML topics, including deep neural networks, supervised
+            learning, probabilistic graphical models, and unsupervised learning, Reinforcement Learning, Causal Inference, etc.
+            through engaging modules delivered by Amazon Scientists.
+            • Practical ML: Developed a strong foundation in essential ML technologies, combining theoretical knowledge with
+            practical applications in real-world scenarios.
           </p>
           <button>Go</button>
         </motion.div>
@@ -75,10 +78,7 @@ const Services = () => {
         >
           <h2>Web Development</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            I have developed some full stack projects such as AsuraTube in MERN stack and also leveraged frontend into the APIs provided. You can check my projects in github.
           </p>
           <button>Go</button>
         </motion.div>
@@ -88,10 +88,7 @@ const Services = () => {
         >
           <h2>Data Analysis</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Analysed Covid-19 database in Global Scale and provide some insights that include the effect of age, previous health status and loaction into the recovery rates.
           </p>
           <button>Go</button>
         </motion.div>
@@ -101,10 +98,14 @@ const Services = () => {
         >
           <h2>Financial Research Analysis</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Financial Research AnalystFinancial Research Analyst
+          Wall Street Oasis · InternshipWall Street Oasis · Internship
+          Jan 2024 - Mar 2024 · 3 mosJan 2024 - Mar 2024 · 3 mos
+          RemoteRemote
+            helped me get this jobLinkedIn helped me get this job
+          • Spearheaded research efforts across diverse domains including finance, management, accounting, valuation, strategy, and budgeting, resulting in the development of comprehensive research materials totaling over 40,000 words, delivered before the conclusion of my internship. 
+          • Self-directed learning, focusing on fundamental accounting principles, three-statement financial modeling, and discounted cash flow (DCF) modeling. 
+          • Orchestrated a strategic overhaul that led to an impressive 27% increase in Search Engine Optimization (SEO) performance, significantly enhancing our online visibility.
           </p>
           <button>Go</button>
         </motion.div>
